@@ -1,0 +1,18 @@
+export const icons = [
+  "accessibility_new",
+  "query_stats",
+  "verified",
+  "tune",
+  "sensors",
+  "handyman",
+  "electric_meter",
+  "ac_unit",
+  "display_settings",
+  "wb_incandescent",
+  "local_drink",
+  "adf_scanner",
+  "radio_button_checked",
+  "emoji_flags",
+  "emoji_events",
+  "phone_android",
+];
